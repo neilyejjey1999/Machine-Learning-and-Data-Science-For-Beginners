@@ -1,1 +1,4 @@
-**This is free, guided course on the basics of data science and machine learning, offered as Jupyter notebooks that can be followed along with.  Please feel free to contact me with any suggestions, improvements, additional coverage, etc.  I will add too this piecemeal as a resource for anyone wanting to get into this but does not know where to start!**
+A hands-on Jupyter course covering data fundamentals, regression,
+classification, trees, neural networks, ensembles, feature engineering,
+model validation, unsupervised learning, time series, and an end-to-end
+capstone.
